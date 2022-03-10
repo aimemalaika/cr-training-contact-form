@@ -14,14 +14,14 @@
 
 ## Live Demo
 
-### [LIVE DEMO LINK](https://aimemalaika.github.io/portofolio)
+### [LIVE DEMO LINK](https://aimemalaika.github.io/cr-training-contact-form/)
 
 
 ## Getting Started
 - clone the repository by running\
-    `git clone https://github.com/aimemalaika/portofolio.git`
+    `git clone https://github.com/aimemalaika/cr-training-contact-form.git`
 - navigate to the folder\
-    `cd portofolio`
+    `cd cr-training-contact-form`
 
 ## Authors
 
@@ -34,15 +34,6 @@
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-## 🤝 Contributors
-
-Thank you to
-
-- [Tekle Gebreyohannes(@gtekle)](https://github.com/gtekle)
-- [Akshitha Reddy(@AkshithaReddy1899)](https://github.com/AkshithaReddy1899)
-- [Tarikwa Tesfa(@tariktesfa)](https://github.com/tariktesfa)
-- [Islam Bahnas(@Banstein)](https://github.com/Banstein)
 
 ## Show your support
 
