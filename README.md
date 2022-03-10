@@ -35,6 +35,8 @@
 
 Contributions, issues, and feature requests are welcome!
 
+[ISSUES](https://github.com/aimemalaika/cr-training-contact-form/issues)
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
