@@ -325,3 +325,110 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+/* Contact-me section */
+.contact {
+  background-color: var(--font-color-1);
+  padding: 0 24px;
+  font-family: "Roboto", sans-serif;
+}
+
+.contact-description {
+  font-size: 32px;
+  line-height: 44px;
+  text-align: center;
+  color: #172b4d;
+  margin: 24px 0;
+  padding-top: 120px;
+  font-weight: 700;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+input,
+textarea {
+  margin: 20px 0;
+  border: 0;
+  border-bottom: 1px solid #dbd8d7;
+  padding: 15px 16px;
+  outline: none;
+  width: 100%;
+}
+
+input::-moz-placeholder {
+  font-weight: normal;
+  font-size: 15px;
+  color: #979493;
+}
+
+input:-ms-input-placeholder {
+  font-weight: normal;
+  font-size: 15px;
+  color: #979493;
+}
+
+input::placeholder {
+  font-weight: normal;
+  font-size: 15px;
+  color: #979493;
+}
+
+textarea {
+  background-color: #fbf8f7;
+  border: none;
+}
+
+textarea::-moz-placeholder {
+  font-family: var(--font-inter);
+  font-weight: normal;
+  font-size: 15px;
+  color: #8b8686;
+}
+
+textarea:-ms-input-placeholder {
+  font-family: var(--font-inter);
+  font-weight: normal;
+  font-size: 15px;
+  color: #8b8686;
+}
+
+textarea::placeholder {
+  font-family: var(--font-inter);
+  font-weight: normal;
+  font-size: 15px;
+  color: #8b8686;
+}
+
+.submit {
+  align-self: center;
+}
+
+#error {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+
+.form-line {
+  margin: 0;
+  border: none;
+  border-bottom: 1px solid #dfe1e6;
+}
+
+.form-icons-container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.button-form {
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
